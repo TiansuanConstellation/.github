@@ -23,7 +23,7 @@
 
 Putting an experiment into orbit has always demanded a launch budget, a hardware program, and a healthy tolerance for risk — which is why most research ideas never leave the ground. Tiansuan exists to change that. The constellation pairs in-orbit satellites with ground stations, a cloud supercomputing center, and an open service platform, so that the **global research community can deploy, test, and measure real systems on real satellites — openly, and at low cost.**
 
-<!-- > Aimed at scientific exploration, anchored at the international research frontier, grounded in the industry–university–research–application model, committed to openness and open source, striving for international leadership, and serving human society. — our charter -->
+Beyond the satellites themselves, the team founded **[OPENSAT — Open Source Satellite Community](https://github.com/Satellite-OSS)**, an open community that gathers satellite-related open resources — software, papers, datasets, and industry standards and specifications — from Tiansuan and from the wider community.
 
 **At a glance:** 5 satellites in orbit · 7 world-first systems verified on orbit · 33 alliance members across China and Europe · 20+ peer-reviewed publications (2021–2025)
 
