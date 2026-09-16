@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="http://www.tiansuan.org.cn/pic/logo.png" alt="Tiansuan Constellation logo" width="30%">
+<img src="http://www.tiansuan.org.cn/pic/logo.png" alt="Tiansuan Constellation logo" width="15%">
 
 # Tiansuan Constellation · 天算星座
 
